@@ -3,3 +3,6 @@
 ################################################################################
 
 /Blinky/obj/Debug
+/NetMf.CommonExtensions/obj/Debug
+/TestMorsePatternGeneratorTests/obj/Debug
+/.vs/Blinky/v14/.suo

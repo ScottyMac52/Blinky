@@ -11,6 +11,9 @@ using SecretLabs.NETMF.Hardware.Netduino;
 
 namespace Blinky
 {
+    /// <summary>
+    /// The main entry point for the program
+    /// </summary>
     public class Program
     {
         private static int iterationCount = 0;
