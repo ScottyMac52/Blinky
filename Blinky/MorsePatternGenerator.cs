@@ -58,7 +58,7 @@ namespace Blinky
 
         public string GetStringFromCode(string inputMessage)
         {
-            throw new NotImplementedException();
+            return "UNABLE";
         }
 
         public virtual string GetCodeFromString(string inputMessage)
